@@ -5,4 +5,7 @@
 document.write("Hello JavaScript by JavaScript");
 </script>
 </body>
-</html>
+</html> 
+
+// Fetching needs to be Done 
+<script src="myscripts.js"></script>
