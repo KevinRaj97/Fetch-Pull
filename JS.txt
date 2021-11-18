@@ -9,3 +9,6 @@ document.write("Hello JavaScript by JavaScript");
 
 // Fetching needs to be Done 
 <script src="myscripts.js"></script>
+
+// pull needs to be done 
+<h6>git pull<h6>
